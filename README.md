@@ -30,6 +30,8 @@ But the system is not connected.
 
 ## ICFR behaves like an operating model
 
+![ICFR Operating System](./rysqer-operating-model-system.png)
+
 Control only exists if:
 
 - execution happens within the control context  
