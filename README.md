@@ -2,7 +2,8 @@
 
 ![ICFR Ownership Gap](./rysqer-icfr-ownership-gap.png)
 
-Most SOX ICFR programs look complete.
+ICFR does not fail in design.
+It fails in execution.
 
 Controls are documented.  
 Ownership is assigned.  
