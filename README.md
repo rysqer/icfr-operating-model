@@ -1,6 +1,6 @@
 # Rysqer — ICFR Operating Model
 
-![ICFR Ownership Gap](./rysqer-ownership-gap.png)
+![ICFR Ownership Gap](./rysqer-icfr-ownership-gap.png)
 
 Most SOX ICFR programs look complete.
 
