@@ -1,5 +1,7 @@
 # Rysqer — ICFR Operating Model
 
+Rysqer is an ICFR operating model for SOX execution.
+
 ![ICFR Ownership Gap](./rysqer-icfr-ownership-gap.png)
 
 ICFR does not fail in design.
