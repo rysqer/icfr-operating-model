@@ -1,5 +1,7 @@
 # Rysqer — ICFR Operating Model
 
+![ICFR Ownership Gap](./rysqer-ownership-gap.png)
+
 Most SOX ICFR programs look complete.
 
 Controls are documented.  
